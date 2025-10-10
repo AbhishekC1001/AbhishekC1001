@@ -9,7 +9,7 @@ I'm a Software Development Engineer with experience in the FinTech industry, cur
 ### 👨‍💻 About Me
 
 -   🎓 I’m currently a Master's student in **Computer Science** at **The University of Edinburgh**.
--   🛠️ In my previous role as a **Software Development Engineer at ION Trading**, I built a C# adapter to bridge data flow between platforms, engineered a client usage analytics tool , and led the integration of a client's REST API with an SAP system.
+-   🛠️ In my previous role as a **Software Development Engineer at ION Trading**.
 -   🌱 I’m passionate about **Machine Learning**, **AI**, **Android Development**, and building **Distributed Systems**.
 -   🤝 I’m looking to collaborate on open-source projects related to AI, backend development, or financial technology.
 -   📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/abhishek-choudhury-vk/).
